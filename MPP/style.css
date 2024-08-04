@@ -1,0 +1,52 @@
+
+body {
+    margin-top: 0px;
+    margin-bottom: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-sizing: border-box;
+    
+}
+
+.border {
+    border-bottom: #0070E0 2px solid;
+    position: relative;
+    top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding: 0px 5svh; */
+
+}
+
+#L1 {
+    max-width: 579.583px;
+}
+
+ul a:visited {
+    color: #0070E0 ;
+    text-decoration: none;
+}
+
+li {
+
+}
+
+#LawOfProgression {
+    margin-bottom: 800px;
+}
+
+.lt {
+    position: sticky;
+    margin-left: 0px;
+    height: 10px;
+    width: 80px;
+    border: #0070E0 solid 2px;
+    background-image: url(Source/Untitled\ design.png);
+}
+
+.rt {
+    border: #0070E0 solid 2px;
+}
